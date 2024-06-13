@@ -1,0 +1,3 @@
+u = "faca"
+
+print(u)
